@@ -312,4 +312,4 @@
 - [PageGuard](https://pageguard.org): 免费网站健康扫描工具，一键检测SEO、性能、无障碍性和最佳实践，提供AI分析报告和REST API，无需注册。
 - [WebCoreLab](https://webcorelab.com) — AI-powered 272-check SEO audit + GEO/AEO optimization for indie hackers. Free audit tier available.
 
-
+- [AI Fake Landing Checkup](https://github.com/ruiflow-team/ai-fake-landing-checkup): Free open-source diagnostic for AI projects. 25-question checklist to check if your AI idea is real or fake-landing. No signup, no payment.
